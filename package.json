@@ -1,0 +1,25 @@
+{
+  "name": "expresspracticeserver",
+  "version": "1.0.0",
+  "description": "Working on creating a server with express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harropm1/ExpressPracticeServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harropm1/ExpressPracticeServer/issues"
+  },
+  "homepage": "https://github.com/harropm1/ExpressPracticeServer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.4"
+  },
+  "devDependencies": {}
+}
